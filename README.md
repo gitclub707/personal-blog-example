@@ -1,4 +1,4 @@
-# biki-opensource
+# personal blog example
 This is an open source. 
 
 It provides a html file example for your personal blog.
